@@ -2099,3 +2099,20 @@ button {
     font-size: 34px !important;
   }
 }
+.site-footer {
+  width: 100%;
+  text-align: center;
+  padding: 28px 20px;
+  margin-top: 40px;
+
+  color: #77778a;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.site-footer strong {
+  background: linear-gradient(90deg, #ed3b83, #7c3aed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 900;
+}

@@ -270,3 +270,6 @@ export default function Events({
     </main>
   );
 }
+<footer className="site-footer">
+  Created by <strong>Nishkha</strong>
+</footer>
